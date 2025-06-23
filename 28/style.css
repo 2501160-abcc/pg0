@@ -1,0 +1,25 @@
+#welcom-nav {
+    width:100%;
+    background-color:black;
+    padding:10px;
+}
+#welcom-nav ul{
+    list-style:none;
+    display:flex;
+    padding:0;
+    margin:0;
+}
+#welcom-nav a{
+    margin-left:10px;
+    padding:25px;
+    color:white
+}
+#welcom-nav a:hover{
+    background-color:#976b6b;
+}
+body{
+    margin:0;
+}
+img{
+    size:50%;
+}
